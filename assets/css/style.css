@@ -4503,8 +4503,8 @@ fieldset:disabled .btn {
 }
 
 .btn-sm, .btn-group-sm > .btn {
-  --bs-btn-padding-y: 5px;
-  --bs-btn-padding-x: 5px;
+  --bs-btn-padding-y: 1px;
+  --bs-btn-padding-x: 3px;
   --bs-btn-font-size: 0.984375rem;
   --bs-btn-border-radius: 4px;
 }
